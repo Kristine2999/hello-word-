@@ -1,3 +1,9 @@
  is the process of cleaning cooking utensils, 
  dishes, cutlery and other items to prevent foodborne 
+ 
+def conflict(x):
+ if x == 0:
+   return True
+ 
  (c) Wikipedia
+ 
